@@ -1,0 +1,25 @@
+README.md
+setup.py
+cencus income/__init__.py
+cencus income/components/__init__.py
+cencus income/components/data_ingection.py
+cencus income/components/data_preprocessing.py
+cencus income/components/data_validation.py
+cencus income/components/model_evalution.py
+cencus income/components/model_trainer.py
+cencus income/config/__init__.py
+cencus income/config/artifact.py
+cencus income/config/configuration.py
+cencus income/exception/__init__.py
+cencus income/exception/exception.py
+cencus income/logging/__init__.py
+cencus income/logging/logging.py
+cencus income/pipeline/__init__.py
+cencus income/pipeline/training_pipeline.py
+cencus income/utils/__init__.py
+cencus income/utils/util.py
+cencus_income.egg-info/PKG-INFO
+cencus_income.egg-info/SOURCES.txt
+cencus_income.egg-info/dependency_links.txt
+cencus_income.egg-info/requires.txt
+cencus_income.egg-info/top_level.txt
